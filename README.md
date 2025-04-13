@@ -162,7 +162,7 @@ View them on Dashboard/Calendar
 Deployed live using Vercel:
 
 👉 Live Link: https://your-vercel-app.vercel.app
-(Add once deployed)
+(jadecaps-frontend-ckuoydznw-shirisha-reddys-projects.vercel.app)
 
 🔧 To Deploy:
 Push your repo to GitHub
